@@ -18,7 +18,7 @@
 
 ## 03. 운영
 ### ELK 플로우
-### 1. Filebeat 로그 파일 수집 -> Logstash로 Input Output 하기 , tags를 이용해서 구분
-### 2. Logstash 필터링 ->  tags로 필터링이랑 인덱스 설정해서 ElasticSearch로 보내기
-### 3. ElasticSearch 데이터 적재 -> 인덱스 패턴 생성
-### 4. Kibana 데이터 시각화
+#### 1. Filebeat 로그 파일 수집 -> Logstash로 Input Output 하기 , tags를 이용해서 구분
+#### 2. Logstash 필터링 ->  tags로 필터링이랑 인덱스 설정해서 ElasticSearch로 보내기
+#### 3. ElasticSearch 데이터 적재 -> 인덱스 패턴 생성
+#### 4. Kibana 데이터 시각화
