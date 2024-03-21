@@ -22,3 +22,6 @@
 #### 2. Logstash 필터링 ->  tags로 필터링이랑 인덱스 설정해서 ElasticSearch로 보내기
 #### 3. ElasticSearch 데이터 적재 -> 인덱스 패턴 생성
 #### 4. Kibana 데이터 시각화
+
+## 04. Tip
+#### 리눅스 권한 필요: etc/kibana/ -> 권한 부여 해야 list 보임 -> kibana.yml 권한 부여 -> 수정
